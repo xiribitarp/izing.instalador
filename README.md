@@ -1,5 +1,3 @@
-[![Grupo do WhatsApp](https://img.shields.io/badge/WhatsApp-Grupo%20IZING-brightgreen.svg)](https://chat.whatsapp.com/IIReEheixAx27ZbneHpskP)
-
 ## CRIAR SUBDOMINIO E APONTAR PARA O IP DA SUA VPS
 
 Testado ubuntu 20 e 22
@@ -140,12 +138,3 @@ Depois acesse novamente url http://seuip:9000/
 ```bash
 WHAZING
 ```
-#### Curtiu? Apoie o projeto!! Com sua doação, será possível continuar com as atualizações. Segue QR code (PIX)  
-
-[<img src="donate.jpg" height="160" width="180"/>](donate.jpg)
-
-## Consultoria particular
-
-Para quem gostaria de uma consultoria ou que eu faça instalação pode chamar no whatsapp (será cobrado por isso) 48 999416725 
-
--  [Nova Versão com API Bayles](https://github.com/cleitonme/Whazing-SaaS.instalador)
